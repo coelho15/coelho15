@@ -16,7 +16,8 @@ Sou desenvolvedora fullstack em formação e estou sempre aprendendo coisas nova
 
 **Back-end**
 - Java ☕  
-- Kotlin 💜  
+- Kotlin 💜
+-  PHP 🐘    
 - COBOL 🖥️  
 
 **Front-end**
