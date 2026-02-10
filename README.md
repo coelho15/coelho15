@@ -1,4 +1,4 @@
-# Oiee! Eu sou a Coelho 🐰💻
+# Oiee! 🐰💻
 
 Bem-vindo ao meu GitHub!
 
