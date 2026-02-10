@@ -1,16 +1,48 @@
-## Hi there 👋
+# Oiee! Eu sou a Coelho 🐰💻
 
-<!--
-**coelho15/coelho15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu GitHub!
 
-Here are some ideas to get you started:
+Me chamo Maria Eduarda, tenho 17 anos e sou estudante de Desenvolvimento de Sistemas.  
+Sou desenvolvedora fullstack em formação e estou sempre aprendendo coisas novas, errando, acertando e evoluindo no meu próprio ritmo 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+- 👩‍💻 Apaixonada por tecnologia e programação  
+- 📚 Estudando para me tornar cada vez melhor  
+- 💬 Aprendo melhor com exemplos práticos  
+- ✨ Em busca de mais confiança e evolução constante
+
+## Stack atual
+
+**Back-end**
+- Java ☕  
+- Kotlin 💜  
+- COBOL 🖥️  
+
+**Front-end**
+- HTML  
+- CSS  
+- JavaScript  
+
+**Conceitos**
+- Programação Orientada a Objetos 🧩  
+- Lógica de Programação  
+- Estruturas de Dados  
+
+**Ferramentas**
+- Git & GitHub 🐙  
+- Banco de Dados 🗄️
+
+## Aqui no perfil você encontra: 
+
+- Projetos acadêmicos  
+- Exercícios de programação  
+- Experimentos e ideias  
+- Minha evolução como desenvolvedora
+
+## Contato
+
+- 💼 LinkedIn: www.linkedin.com/in/eduarda-coelho-uchôa-51a812395
+- 📧 Email: mecoelho91@gmail.com
+
+Valeu por visitar meu perfil! 💜
