@@ -45,4 +45,4 @@ Sou desenvolvedora fullstack em formação e estou sempre aprendendo coisas nova
 - 💼 LinkedIn: www.linkedin.com/in/eduarda-coelho-uchôa-51a812395
 - 📧 Email: mecoelho91@gmail.com
 
-Valeu por visitar meu perfil! 💜
+Obrigada por visitar meu perfil! 💜
