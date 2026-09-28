@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu GitHub!
 
-Me chamo Maria Eduarda, tenho 17 anos e sou estudante de Desenvolvimento de Sistemas.  
+Me chamo Maria Eduarda, tenho 18 anos e sou estudante de Desenvolvimento de Sistemas.  
 Sou desenvolvedora fullstack em formação e estou sempre aprendendo coisas novas, errando, acertando e evoluindo no meu próprio ritmo 🚀
 
 ## Sobre mim
@@ -17,13 +17,13 @@ Sou desenvolvedora fullstack em formação e estou sempre aprendendo coisas nova
 **Back-end**
 - Java ☕  
 - Kotlin 💜
--  PHP 🐘    
-- COBOL 🖥️  
+-  PHP 🐘     
 
 **Front-end**
 - HTML  
 - CSS  
-- JavaScript  
+- JavaScript 
+- React Native 
 
 **Conceitos**
 - Programação Orientada a Objetos 🧩  
@@ -31,8 +31,9 @@ Sou desenvolvedora fullstack em formação e estou sempre aprendendo coisas nova
 - Estruturas de Dados  
 
 **Ferramentas**
-- Git & GitHub 🐙  
-- Banco de Dados 🗄️
+- Figma
+- Expo
+- Git & GitHub 🐙 
 
 ## Aqui no perfil você encontra: 
 
